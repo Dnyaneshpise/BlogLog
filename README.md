@@ -38,7 +38,7 @@
     Create a `.env` file in the root directory and add the following:
 
     ```env
-    MONGODB_URI=mongodb://localhost:27017/bloglog
+    MONGODB_URI=mongodb://127.0.0.1:27017/bloglog
     ```
 
 4. **Start the server:**
